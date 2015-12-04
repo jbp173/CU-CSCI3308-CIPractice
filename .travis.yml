@@ -1,2 +1,1 @@
 language: c
-script: geometry_test.c
