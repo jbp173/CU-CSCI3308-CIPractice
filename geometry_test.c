@@ -72,9 +72,9 @@ START_TEST(test_2d_area)
     a.y = 0;
     b.x = 3;
     b.y = 0;
-    c.x = 0
-    c.y = 3
-    ck_assert(coord_2d_area_triangle(&a, &b, &c) == 4.5);
+    c.x = 0;
+    c.y = 3;
+    ck_assert(co;ord_2d_area_triangle(&a, &b, &c) == 4.5);
 
    }
 
